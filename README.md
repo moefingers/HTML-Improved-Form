@@ -1,8 +1,8 @@
 <!-- unlv-museum-banner-start -->
 <a href="https://unlv-museum.recanon.com/html-fundamentals/improved-form" target="_blank" rel="noopener">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.recanon.com/github-banners/improved-form?theme=dark&v=3bfedd8c9a">
-    <img src="https://unlv-museum.recanon.com/github-banners/improved-form?theme=light&v=3bfedd8c9a" alt="Improved Sign-up Form" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.recanon.com/github-banners/improved-form?theme=dark&v=4abf360e7b">
+    <img src="https://unlv-museum.recanon.com/github-banners/improved-form?theme=light&v=4abf360e7b" alt="Vacation-contest sign-up form in HTML — required fields, preferences and a results page that randomly says you won or lost." width="100%">
   </picture>
 </a>
 
